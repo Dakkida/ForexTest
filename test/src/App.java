@@ -15,5 +15,8 @@ public class App {
 		SbiFxTrader logintwo = new SbiFxTrader(drivertwo);
 		logintwo.start();
 		Thread.sleep(1000);
+
+		//driverone.quit();
+		//test github
 	}
 }
